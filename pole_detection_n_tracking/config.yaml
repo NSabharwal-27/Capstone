@@ -1,0 +1,7 @@
+path: D:\DEV\ENG 4000\Capstone\pole_detection_n_tracking\data
+train: train/images
+val: train/images
+
+# Classes
+names:
+  0: pole
